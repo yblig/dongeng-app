@@ -1,0 +1,7 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+edge-tts>=7.0,<8
+trimesh>=4.4,<5
+numpy>=1.26,<3
+Pillow>=10,<12
+pygltflib>=1.16,<2
